@@ -1,0 +1,29 @@
+id,name,category,segment,primary_model,arr_usd_m,arr_asof,growth_yoy_pct,valuation_usd_b,valuation_asof,total_funding_usd_m,pricing_summary,notable_economics,confidence,source
+openai,ChatGPT / OpenAI,基础模型,混合,订阅+API+广告+授权,40000,2026-07,233,852,2026-03,219700,"Plus $20/mo; Pro $200/mo; Team $25-30/seat; Enterprise ~$60/seat; ChatGPT Go (India) $5/mo","毛利率 33%; 2030 才现金流转正; 企业收入占比 >50%",B,Sacra
+anthropic,Claude / Anthropic,基础模型,B2B 为主,API+座位+订阅,,,800,965,2026,125000,"Opus 4.7 $5/$25 per M tokens; Sonnet 4.5 $3/$15; Fable 5 $10/$50","数据冲突: 年化 $65B(2026-07) vs 2025 自然年 $6B; 云转售按 gross 记账",D,Sacra + Business of Apps
+xai,Grok / xAI,基础模型,B2C,订阅,350,2025,399,250,2026-02,42000,"SuperGrok $30/mo; Heavy $300/mo; X Premium+ $40/mo","收入 <$1B 但融资 $42B; 基建支出约 $1B/mo; 靠 X 免费分发",C,Business of Apps
+google-gemini,Google Gemini,基础模型,B2C,订阅,1200,2025,300,,,,"捆绑在 Google One / Workspace","750M 用户仅换来 $1.2B 订阅收入, 转化率约 0.7%",B,Business of Apps
+microsoft-copilot,Microsoft Copilot,基础模型,B2B,订阅(捆绑),,,, ,,,,"捆绑 M365, 未单独披露","AI 收入混入云部门, 无法单独计量",B,Business of Apps
+deepseek,DeepSeek,基础模型,无商业化,无,0,2025,0,,0,0,"全免费 + 开源","V3 训练成本 $5.5M vs GPT-4 $100M+; 刻意不商业化",B,Business of Apps
+cursor,Cursor / Anysphere,开发工具,混合,订阅分层,4000,2026-05,1100,60,2026-06,3380,"Pro $20/mo; Business $40/user; Ultra $200/mo","企业占收入约 60%; 2026-04 毛利转正; 个人端仍亏损; $1M->$500M ARR 最快 SaaS",B,Sacra
+claude-code,Claude Code,开发工具,B2B,捆绑订阅+企业合同,2500,2026-02,,,,"","包含在 Claude Pro/Max","2025-11 $1B -> 2026-02 $2.5B ARR; 企业占一半以上",B,Sacra
+github-copilot,GitHub Copilot,开发工具,B2B,座位订阅,,, ,,,,"个人 + 企业座位","订阅者 >1M (唯一有独立数据的微软 AI 子产品)",C,Business of Apps
+midjourney,Midjourney,创意媒体,B2C,订阅分层,200,2023,,,," ","Basic $10; Standard $30; Pro $60; Mega $120","从未融资; 40-45 人; 约 1.4M 付费订阅者; 成本结构类似云厂商",B,Sacra
+elevenlabs,ElevenLabs,创意媒体,混合,订阅+API用量+企业,600,2026-06,175,11,2026-02,781,"Creator $22/mo 起; 企业按量; ~$0.16/分钟","41% Fortune 500 在用; 2026Q1 单季净增 $100M ARR; 2026-07 tender $22B",B,Sacra
+suno,Suno,创意媒体,B2C,Freemium 订阅,300,2026-02,404,5.4,2026-06,775,"Pro $8-10/mo; Premier $24-30/mo (口径冲突)","2M 付费订阅; GPU 成本超人力数倍; WMG 合作后下载需付费账号",B,Sacra + Business of Apps
+runway,Runway,创意媒体,混合,订阅+GPU计量+授权,90,2025-06,180,5.3,2026-02,1050,"$12-95/user/mo + GPU 分钟","2024 年 $44M 收入配 $155M EBITDA 亏损",B,Sacra
+heygen,HeyGen,创意媒体,SMB+中端,订阅(无限量)+API,205,2026-06,114,0.5,2023,74,"Free; Creator $24/mo 无限量; Team $39/seat; API $99/mo 起","2023Q2 即盈利, 运营利润率约 20%; 病毒系数 >3.0; 20% 联盟佣金",B,Sacra
+synthesia,Synthesia,创意媒体,B2B 企业优先,订阅+credit 计量,146,2025-09,80,4,2026-01,530,"Starter $30/mo; Creator $80-90/mo; 企业定制","NRR >140%; 70% 收入来自企业; 毛利 70-80%; 90% Fortune 100",B,Sacra
+harvey,Harvey,垂直-法律,B2B,座位制,350,2026-07,290,15.5,2026-09,1200,"座位许可, 通常几百席起步","席位中位数 12 个月翻倍; 放弃自研垂直模型转多模型路由; 50% Am Law 100",B,Sacra
+abridge,Abridge,垂直-医疗,B2B,企业订阅(按临床医生),100,2025-05,900,5.3,2025-06,733,"~$2,500/临床医生/年","给 Epic 股权+分成换 38% 医院网络优先接入; 领先竞品 3-6 个月",B,Sacra
+openevidence,OpenEvidence,垂直-医疗,B2B2C,广告+企业+API,300,2026-07,1803,12,2026-01,700,"医生免费; 企业版另计","毛利 90%; 广告 CPM $70-1000+; ARPU $124; 覆盖 40%+ 美国医生",B,Sacra
+glean,Glean,垂直-企业搜索,B2B,座位订阅,300,2026-05,89,7.2,2025-06,768,"$100K-$500K 首年合同; Fortune 500 可 >$5M/年","9 个月 ARR 翻倍; 年 1 亿+ agent 动作; 销售周期 4-5 个月",B,Sacra
+clay,Clay,垂直-销售,B2B,订阅+双计量,150,2026-05,260,7.1,2026-09,202,"Pro 档下移到 $495 Growth","2026-03 拆成 Data Credits + Actions; 原生增强成本降 50-90%",B,Sacra
+sierra,Sierra,垂直-客服,B2B,按对话/按结果,200,2026-05,400,15.8,2026-05,1585,"按对话量或按成功解决计价","上线第 7 季度破 $100M ARR; 覆盖 40% Fortune 50; 79x 估值倍数",B,Sacra
+perplexity,Perplexity,垂直-AI搜索,混合,订阅+用量+分销,750,2026-08,268,20,2025-09,1500,"Pro $20/mo; Max $200/mo; Enterprise Pro $40/seat","主动放弃广告; Airtel 3.6 亿用户免费一年后印度付费收入涨约 60%",B,Sacra
+character-ai,Character.AI,消费应用,B2C,订阅,50,2025,66,,,,"会员订阅","45M 用户 -> ARPU 约 $1.1/年; 单次使用 2 小时; Google $2.7B 非独家授权",B,Business of Apps
+faceapp,FaceApp,消费应用,B2C,付费墙+订阅,150,2025,11,,,,"Basic 免费 21 滤镜; Pro 额外 28 滤镜","用户 85M(2020) 降至 33M(2025), 收入从 $25M 涨到 $150M; 累计收入 >$600M",B,Business of Apps
+photo-ai,Photo AI (levelsio),独立开发者,B2C,订阅,1260,2026-03,70,,0,0,"订阅制","40,870 行 index.php; 月收入 $105,000 / 月利润 $80,000",A,levels.io
+remote-ok,Remote OK (levelsio),独立开发者,B2B,招聘广告+订阅,,, ,,0,0,"职位发布收费","单一 PHP 文件单月 $101,101 (2021-04)",A,levels.io
+fly-pieter,fly.pieter.com,独立开发者,B2C,游戏内变现,1000,2025-02,,,0,0,"vibe coded 飞行模拟器","17 天达到 $1M ARR",A,levels.io
+photopea,Photopea,独立开发者,B2C,广告+订阅,1,2021,,,0,0,"免费 + 广告/订阅","单人 + 纯 vanilla JavaScript",C,levels.io
