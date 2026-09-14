@@ -17,6 +17,7 @@ docs/ai-monetization/
 │   ├── vertical-enterprise.md
 │   └── indie-bootstrapped.md
 ├── patterns.md                # 盈利模式归纳 + 反直觉结论 + 风险清单
+├── advice.md                  # 创业建议（行动指南 + 可行性自检表）
 ├── sources.md                 # 来源清单、可信度分级、待核实项
 └── data/
     └── cases.csv              # 结构化数据，便于筛选取数/接入产品
@@ -50,6 +51,7 @@ docs/ai-monetization/
 
 ## 使用方式
 
+- 想找创业方向 / 做立项决策 → 直接读 `advice.md`
 - 想看模式与结论 → 直接读 `patterns.md`
 - 想按某个公司查 → 在 `cases/` 里找，或 `grep` 公司名
 - 想拿数据做分析/做产品 → 用 `data/cases.csv`

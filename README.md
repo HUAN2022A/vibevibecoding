@@ -18,6 +18,7 @@
 | [消费级应用](docs/ai-monetization/cases/consumer-apps.md) | Character.AI、FaceApp、消费品类的结构性问题 |
 | [独立开发者与自筹项目](docs/ai-monetization/cases/indie-bootstrapped.md) | Pieter Levels 产品组合、Photopea、可行性判断框架 |
 | [盈利模式归纳](docs/ai-monetization/patterns.md) | 12 种盈利模式、8 条反直觉结论、风险清单 |
+| [创业建议](docs/ai-monetization/advice.md) | **不该做什么、赛道选择、定价经验、分发策略、12 项可行性自检表** |
 | [来源与可信度](docs/ai-monetization/sources.md) | 来源清单、可信度分级、**待核实清单** |
 | [结构化数据](docs/ai-monetization/data/cases.csv) | 28 条案例记录的机器可读数据 |
 
